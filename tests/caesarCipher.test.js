@@ -1,4 +1,4 @@
-import caesarCipher from './caesarCipher';
+import caesarCipher from '../code/caesarCipher';
 
 it('shifts string', () =>
 {

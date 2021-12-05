@@ -1,4 +1,4 @@
-import analyzeArray from "./analyzeArray";
+import analyzeArray from "../code/analyzeArray";
 
 it('gets the minimum value in array', () =>
 {
